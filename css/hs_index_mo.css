@@ -418,12 +418,12 @@ main{
     font-size: 16px;
     padding: 5px 0;
     padding-right: 40px;
-    background: url(../../img/main/mobile/view_mo.png) no-repeat 100% 50%;
+    background: url(../img/main/mobile/view_mo.png) no-repeat 100% 50%;
     color: #999;
     transition: all 0.3s linear 0s;
 }
 .moIntro>a:hover{
-    background: url(../../img/main/mobile/view_mo_on.png) no-repeat 100% 50%;
+    background: url(../img/main/mobile/view_mo_on.png) no-repeat 100% 50%;
     color: #000;
     transform: scale(1.05);
 }
@@ -504,14 +504,14 @@ main{
     font-size: 16px;
     padding: 5px 0;
     padding-right: 40px;
-    background: url(../../img/main/mobile/view_mo.png) no-repeat 99% 50%;
+    background: url(../img/main/mobile/view_mo.png) no-repeat 99% 50%;
     transition: all 0.5s ease 0s;
 }
 .flotingTxt2>li:hover>h3{
     color: #2af598;
 }
 .flotingTxt2>li:hover>a{
-    background: url(../../img/main/mobile/view_mo_on3.png) no-repeat 99% 50%;
+    background: url(../img/main/mobile/view_mo_on3.png) no-repeat 99% 50%;
     color: #2af598;
 }
 
@@ -637,12 +637,12 @@ main{
     font-family: 'Poppins', sans-serif;
     font-weight: 300;
     padding-right: 40px;
-    background: url(../../img/main/mobile/view_mo.png) no-repeat 100% 50%;
+    background: url(../img/main/mobile/view_mo.png) no-repeat 100% 50%;
     color: #999;
     transition: all 0.5s linear 0s;
 }
 .text>a:hover{
-    background: url(../../img/main/mobile/view_mo_on2.png) no-repeat 100% 50%;
+    background: url(../img/main/mobile/view_mo_on2.png) no-repeat 100% 50%;
     color: #fff;
 }
 .images{
@@ -681,16 +681,16 @@ main{
     cursor: pointer;
 }
 .btnPrev{
-    background: url(../../img/main/mobile/prev.png) no-repeat 50% 50%;
+    background: url(../img/main/mobile/prev.png) no-repeat 50% 50%;
 }
 .btnNext{
-    background: url(../../img/main/mobile/next.png) no-repeat 50% 50%;
+    background: url(../img/main/mobile/next.png) no-repeat 50% 50%;
 }
 .btnPrev:hover{
-    background: url(../../img/main/mobile/prev_on.png) no-repeat 50% 50%;
+    background: url(../img/main/mobile/prev_on.png) no-repeat 50% 50%;
 }
 .btnNext:hover{
-    background: url(../../img/main/mobile/next_on.png) no-repeat 50% 50%;
+    background: url(../img/main/mobile/next_on.png) no-repeat 50% 50%;
 }
 .pagination{
     width: 88%;
@@ -745,12 +745,12 @@ main{
     font-size: 16px;
     padding: 5px 0;
     padding-right: 40px;
-    background: url(../../img/main/mobile/view_mo.png) no-repeat 100% 50%;
+    background: url(../img/main/mobile/view_mo.png) no-repeat 100% 50%;
     color: #999;
     transition: all 0.3s linear 0s;
 }
 .news>a:hover{
-    background: url(../../img/main/mobile/view_mo_on.png) no-repeat 100% 50%;
+    background: url(../img/main/mobile/view_mo_on.png) no-repeat 100% 50%;
     color: #000;
 }
 
@@ -926,7 +926,7 @@ footer{
     position: absolute;
     right: 10px;top: 50%;
     transform: translateY(-50%);
-    background: url(../../img/main/mobile/mo_familySite.png) no-repeat 50% 50%;
+    background: url(../img/main/mobile/mo_familySite.png) no-repeat 50% 50%;
 }
 .moSite>li:nth-of-type(2)>a{
     padding-left: 20px;
@@ -947,7 +947,7 @@ footer{
     position: absolute;
     right: 0;top: 50%;
     transform: translateY(-50%);
-    background: url(../../img/main/mobile/mo_siteMap.png) no-repeat 50% 50%;
+    background: url(../img/main/mobile/mo_siteMap.png) no-repeat 50% 50%;
 }
 
 .f_right{
@@ -1043,7 +1043,7 @@ footer{
     content: "";
     width: 19px;
     height: 19px;
-    background: url(../../img/sub1/mobile/mo_add.png) no-repeat 50% 50%;
+    background: url(../img/sub1/mobile/mo_add.png) no-repeat 50% 50%;
     position: absolute;
     right: 0;top: 50%;
     transform: translateY(-50%);
@@ -1055,7 +1055,7 @@ span.addButton:hover{
     content: "";
     width: 19px;
     height: 19px;
-    background: url(../../img/sub1/mobile/mo_add_on.png) no-repeat 50% 50%;
+    background: url(../img/sub1/mobile/mo_add_on.png) no-repeat 50% 50%;
     background-size: contain;
 }
 
@@ -1478,12 +1478,12 @@ span.addButton:hover{
     font-size: 16px;
     padding: 20px 0;
     padding-right: 40px;
-    background: url(../../img/main/mobile/view_mo.png) no-repeat 100% 50%;
+    background: url(../img/main/mobile/view_mo.png) no-repeat 100% 50%;
     color: #999;
     transition: all 0.3s linear 0s;
 }
 .mo_infoH>a:hover{
-    background: url(../../img/main/mobile/view_mo_on2.png) no-repeat 100% 50%;
+    background: url(../img/main/mobile/view_mo_on2.png) no-repeat 100% 50%;
     color: #fff;
 }
 
@@ -1536,12 +1536,12 @@ span.addButton:hover{
     font-size: 16px;
     padding: 20px 0;
     padding-right: 40px;
-    background: url(../../img/main/mobile/view_mo.png) no-repeat 100% 50%;
+    background: url(../img/main/mobile/view_mo.png) no-repeat 100% 50%;
     color: #999;
     transition: all 0.3s linear 0s;
 }
 .subText>a:hover{
-    background: url(../../img/main/mobile/view_mo_on.png) no-repeat 100% 50%;
+    background: url(../img/main/mobile/view_mo_on.png) no-repeat 100% 50%;
     color: #000;
 }
 .mo_Btextile>p{
@@ -1599,12 +1599,12 @@ span.addButton:hover{
     font-size: 16px;
     padding: 20px 0;
     padding-right: 40px;
-    background: url(../../img/main/mobile/view_mo.png) no-repeat 100% 50%;
+    background: url(../img/main/mobile/view_mo.png) no-repeat 100% 50%;
     color: #999;
     transition: all 0.3s linear 0s;
 }
 .subText>a:hover{
-    background: url(../../img/main/mobile/view_mo_on.png) no-repeat 100% 50%;
+    background: url(../img/main/mobile/view_mo_on.png) no-repeat 100% 50%;
     color: #000;
 }
 .mo_Bindustry>p{
@@ -1662,12 +1662,12 @@ span.addButton:hover{
     font-size: 16px;
     padding: 20px 0;
     padding-right: 40px;
-    background: url(../../img/main/mobile/view_mo.png) no-repeat 100% 50%;
+    background: url(../img/main/mobile/view_mo.png) no-repeat 100% 50%;
     color: #999;
     transition: all 0.3s linear 0s;
 }
 .subText>a:hover{
-    background: url(../../img/main/mobile/view_mo_on.png) no-repeat 100% 50%;
+    background: url(../img/main/mobile/view_mo_on.png) no-repeat 100% 50%;
     color: #000;
 }
 .mo_Bmaterial>p{
@@ -1725,12 +1725,12 @@ span.addButton:hover{
     font-size: 16px;
     padding: 20px 0;
     padding-right: 40px;
-    background: url(../../img/main/mobile/view_mo.png) no-repeat 100% 50%;
+    background: url(../img/main/mobile/view_mo.png) no-repeat 100% 50%;
     color: #999;
     transition: all 0.3s linear 0s;
 }
 .subText>a:hover{
-    background: url(../../img/main/mobile/view_mo_on.png) no-repeat 100% 50%;
+    background: url(../img/main/mobile/view_mo_on.png) no-repeat 100% 50%;
     color: #000;
 }
 .mo_Bchemical>p{
@@ -1789,12 +1789,12 @@ span.addButton:hover{
     font-size: 16px;
     padding: 20px 0;
     padding-right: 40px;
-    background: url(../../img/main/mobile/view_mo.png) no-repeat 100% 50%;
+    background: url(../img/main/mobile/view_mo.png) no-repeat 100% 50%;
     color: #999;
     transition: all 0.3s linear 0s;
 }
 .subText>a:hover{
-    background: url(../../img/main/mobile/view_mo_on.png) no-repeat 100% 50%;
+    background: url(../img/main/mobile/view_mo_on.png) no-repeat 100% 50%;
     color: #000;
 }
 .mo_Bcommu>p{
@@ -1854,7 +1854,7 @@ span.addButton:hover{
     content: "";
     width: 21px;
     height: 21px;
-    background: url(../../img/sub2/mobile/blank.png) no-repeat 50% 50%;
+    background: url(../img/sub2/mobile/blank.png) no-repeat 50% 50%;
     background-size: contain;
     display: inline-block;
     position: absolute;
@@ -1866,7 +1866,7 @@ span.addButton:hover{
     content: "";
     width: 21px;
     height: 21px;
-    background: url(../../img/sub2/mobile/blank_on.png) no-repeat 50% 50%;
+    background: url(../img/sub2/mobile/blank_on.png) no-repeat 50% 50%;
     background-size: contain;
 }
 .mo_pagination{
@@ -1943,11 +1943,11 @@ span.addButton:hover{
 }
 .btnPrev2{
     height: 33px; width: 33px;
-    background: url(../../img/sub2/mobile/mo_prev.png) no-repeat 50% 50%;    
+    background: url(../img/sub2/mobile/mo_prev.png) no-repeat 50% 50%;    
 }
 .btnNext2{
     height: 33px; width: 33px;
-    background: url(../../img/sub2/mobile/mo_next.png) no-repeat 50% 50%;
+    background: url(../img/sub2/mobile/mo_next.png) no-repeat 50% 50%;
 }
 .underVacu{
     height: 120px;
@@ -2229,7 +2229,7 @@ span.addButton:hover{
     width: 13px;
     height: 15px;
     display: inline-block;
-    background: url(../../img/sub3/etc/down_off.png) no-repeat 50% 50%;
+    background: url(../img/sub3/etc/down_off.png) no-repeat 50% 50%;
     background-size: contain;
 }
 
@@ -2241,7 +2241,7 @@ span.addButton:hover{
     width: 13px;
     height: 15px;
     display: inline-block;
-    background: url(../../img/sub3/etc/down_on.png) no-repeat 50% 50%;
+    background: url(../img/sub3/etc/down_on.png) no-repeat 50% 50%;
     background-size: contain;
     z-index: 10;
 }
@@ -2253,7 +2253,7 @@ span.addButton:hover{
     object-fit: cover;
     margin: 0 auto;
     position: relative;
-    background: url(../../img/sub3/orola.jpg) no-repeat 50% 50%;
+    background: url(../img/sub3/orola.jpg) no-repeat 50% 50%;
     background-attachment: fixed;
     background-size: cover;
 }
@@ -2331,7 +2331,7 @@ span.addButton:hover{
     width: 13px;
     height: 15px;
     display: inline-block;
-    background: url(../../img/sub3/etc/down_off.png) no-repeat 50% 50%;
+    background: url(../img/sub3/etc/down_off.png) no-repeat 50% 50%;
     background-size: contain;
 }
 

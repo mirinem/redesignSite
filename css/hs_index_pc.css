@@ -193,13 +193,13 @@ header.up{
     position: absolute;
     left: 50%;top: 50%;
     transform: translate(-50%,-40%);
-    background: url(../../img/main/logo_etc/language_white.png) no-repeat 50% 50%;
+    background: url(../img/main/logo_etc/language_white.png) no-repeat 50% 50%;
     background-size: contain;
 }
 .lagIcon:hover{
     width: 22px;
     height: 22px;
-    background: url(../../img/main/logo_etc/language_on.png) no-repeat 50% 50%;
+    background: url(../img/main/logo_etc/language_on.png) no-repeat 50% 50%;
     background-size: contain;
 }
 .languageFloat{
@@ -323,12 +323,12 @@ main{
     position: absolute;
     left: 0;top: 390px;
     padding-right: 40px;
-    background: url(../../img/main/logo_etc/viewmore.png) no-repeat 100% 50%;
+    background: url(../img/main/logo_etc/viewmore.png) no-repeat 100% 50%;
     color: #999;
     transition: all 0.3s linear 0s;
 }
 .intro_left>a:hover{
-    background: url(../../img/main/logo_etc/viewmore_on.png) no-repeat 100% 50%;
+    background: url(../img/main/logo_etc/viewmore_on.png) no-repeat 100% 50%;
     color: #000;
     transform: scale(1.05) translateX(5px);
 }
@@ -449,12 +449,12 @@ main{
     font-family: 'Poppins', sans-serif;
     font-size: 34px;
     padding-right: 65px;
-    background: url(../../img/main/logo_etc/viewmore_on2.png) no-repeat 99% 51%;
+    background: url(../img/main/logo_etc/viewmore_on2.png) no-repeat 99% 51%;
     background-size: 2.8rem;
     transition: all 0.5s ease 0s;
 }
 .flotxt3 li:hover a{
-    background: url(../../img/main/logo_etc/viewmore_on3.png) no-repeat 99% 51%;
+    background: url(../img/main/logo_etc/viewmore_on3.png) no-repeat 99% 51%;
     color: #2af598;
     background-size: 2.8rem;
 }
@@ -546,12 +546,12 @@ main{
     position: absolute;
     left: 0;bottom: 0;
     padding-right: 40px;
-    background: url(../../img/main/logo_etc/viewmore.png) no-repeat 100% 50%;
+    background: url(../img/main/logo_etc/viewmore.png) no-repeat 100% 50%;
     color: #999;
     transition: all 0.3s linear 0s;
 }
 .text>a:hover{
-    background: url(../../img/main/logo_etc/viewmore_on2.png) no-repeat 100% 50%;
+    background: url(../img/main/logo_etc/viewmore_on2.png) no-repeat 100% 50%;
     color: #fff;
     transform: scale(1.05) translateX(5px); 
 }
@@ -585,16 +585,16 @@ main{
     cursor: pointer;
 }
 .btnPrev{
-    background: url(../../img/main/logo_etc/prev.png) no-repeat 50% 50%;
+    background: url(../img/main/logo_etc/prev.png) no-repeat 50% 50%;
 }
 .btnNext{
-    background: url(../../img/main/logo_etc/next.png) no-repeat 50% 50%;
+    background: url(../img/main/logo_etc/next.png) no-repeat 50% 50%;
 }
 .btnPrev:hover{
-    background: url(../../img/main/logo_etc/prev_on.png) no-repeat 50% 50%;
+    background: url(../img/main/logo_etc/prev_on.png) no-repeat 50% 50%;
 }
 .btnNext:hover{
-    background: url(../../img/main/logo_etc/next_on.png) no-repeat 50% 50%;
+    background: url(../img/main/logo_etc/next_on.png) no-repeat 50% 50%;
 }
 .pagination{
     position: absolute;
@@ -642,13 +642,13 @@ main{
     font-family: 'Poppins', sans-serif;
     font-weight: 300;
     padding-right: 40px;
-    background: url(../../img/main/logo_etc/viewmore.png) no-repeat 100% 50%;
+    background: url(../img/main/logo_etc/viewmore.png) no-repeat 100% 50%;
     color: #999;
     margin-top: 15px;
     transition: all 0.3s linear 0s;
 }
 .news>a:hover{
-    background: url(../../img/main/logo_etc/viewmore_on.png) no-repeat 100% 50%;
+    background: url(../img/main/logo_etc/viewmore_on.png) no-repeat 100% 50%;
     color: #000;
     transform: scale(1.05); 
 }
@@ -830,7 +830,7 @@ footer{
     position: absolute;
     right: 5px;top: 50%;
     transform: translateY(-50%);
-    background: url(../../img/main/logo_etc/family_site.png) no-repeat 50% 50%;
+    background: url(../img/main/logo_etc/family_site.png) no-repeat 50% 50%;
 }
 .site>li:nth-of-type(2)>a{
     padding-left: 20px;
@@ -852,7 +852,7 @@ footer{
     right: 0;top: 50%;
     transform: translateY(-50%);
 
-    background: url(../../img/main/logo_etc/site_map.png) no-repeat 50% 50%;
+    background: url(../img/main/logo_etc/site_map.png) no-repeat 50% 50%;
 }
 .f_right .sns>li{
     /* border: 1px solid green; */
@@ -945,7 +945,7 @@ span.addButton::after{
     height: 19px;
     display: inline-block;
     margin-left: 5px;
-    background: url(../../img/sub1/icon/addIcon.png) no-repeat 50% 50%;
+    background: url(../img/sub1/icon/addIcon.png) no-repeat 50% 50%;
     position: absolute;
     right: 0;top: 50%;
     transform: translateY(-50%);
@@ -958,7 +958,7 @@ span.addButton:hover:after{
     width: 19px;
     height: 19px;
     margin-left: 5px;
-    background: url(../../img/sub1/icon/addIcon_on.png) no-repeat 50% 50%; 
+    background: url(../img/sub1/icon/addIcon_on.png) no-repeat 50% 50%; 
     background-size: contain;
 }
 
@@ -1809,12 +1809,12 @@ span.addButton:hover:after{
     font-family: 'Poppins', sans-serif;
     font-weight: 300;
     padding-right: 40px;
-    background: url(../../img/main/logo_etc/viewmore.png) no-repeat 100% 50%;
+    background: url(../img/main/logo_etc/viewmore.png) no-repeat 100% 50%;
     color: #999;
     transition: all 0.3s linear 0s;
 }
 .infoH_bottom>section:nth-of-type(2)>a:hover{
-    background: url(../../img/main/logo_etc/viewmore_on.png) no-repeat 100% 50%;
+    background: url(../img/main/logo_etc/viewmore_on.png) no-repeat 100% 50%;
     color: #000;
     transform: scale(1.05) translateX(5px); 
 }
@@ -1868,12 +1868,12 @@ span.addButton:hover:after{
     font-family: 'Poppins', sans-serif;
     font-weight: 300;
     padding-right: 40px;
-    background: url(../../img/main/logo_etc/viewmore.png) no-repeat 100% 50%;
+    background: url(../img/main/logo_etc/viewmore.png) no-repeat 100% 50%;
     color: #999;
     transition: all 0.3s linear 0s;
 }
 .Btextile>div>section:nth-of-type(2)>a:hover{
-    background: url(../../img/main/logo_etc/viewmore_on.png) no-repeat 100% 50%;
+    background: url(../img/main/logo_etc/viewmore_on.png) no-repeat 100% 50%;
     color: #000;
     transform: scale(1.05) translateX(5px); 
 }
@@ -1920,12 +1920,12 @@ span.addButton:hover:after{
     font-family: 'Poppins', sans-serif;
     font-weight: 300;
     padding-right: 40px;
-    background: url(../../img/main/logo_etc/viewmore.png) no-repeat 100% 50%;
+    background: url(../img/main/logo_etc/viewmore.png) no-repeat 100% 50%;
     color: #999;
     transition: all 0.3s linear 0s;
 }
 .Bindustry>div>section:nth-of-type(2)>a:hover{
-    background: url(../../img/main/logo_etc/viewmore_on.png) no-repeat 100% 50%;
+    background: url(../img/main/logo_etc/viewmore_on.png) no-repeat 100% 50%;
     color: #000;
     transform: scale(1.05) translateX(5px); 
 }
@@ -1972,12 +1972,12 @@ span.addButton:hover:after{
     font-family: 'Poppins', sans-serif;
     font-weight: 300;
     padding-right: 40px;
-    background: url(../../img/main/logo_etc/viewmore.png) no-repeat 100% 50%;
+    background: url(../img/main/logo_etc/viewmore.png) no-repeat 100% 50%;
     color: #999;
     transition: all 0.3s linear 0s;
 }
 .Bmaterial>div>section:nth-of-type(2)>a:hover{
-    background: url(../../img/main/logo_etc/viewmore_on.png) no-repeat 100% 50%;
+    background: url(../img/main/logo_etc/viewmore_on.png) no-repeat 100% 50%;
     color: #000;
     transform: scale(1.05) translateX(5px); 
 }
@@ -2024,12 +2024,12 @@ span.addButton:hover:after{
     font-family: 'Poppins', sans-serif;
     font-weight: 300;
     padding-right: 40px;
-    background: url(../../img/main/logo_etc/viewmore.png) no-repeat 100% 50%;
+    background: url(../img/main/logo_etc/viewmore.png) no-repeat 100% 50%;
     color: #999;
     transition: all 0.3s linear 0s;
 }
 .Bchemical>div>section:nth-of-type(2)>a:hover{
-    background: url(../../img/main/logo_etc/viewmore_on.png) no-repeat 100% 50%;
+    background: url(../img/main/logo_etc/viewmore_on.png) no-repeat 100% 50%;
     color: #000;
     transform: scale(1.05) translateX(5px); 
 }
@@ -2080,12 +2080,12 @@ span.addButton:hover:after{
     font-family: 'Poppins', sans-serif;
     font-weight: 300;
     padding-right: 40px;
-    background: url(../../img/main/logo_etc/viewmore.png) no-repeat 100% 50%;
+    background: url(../img/main/logo_etc/viewmore.png) no-repeat 100% 50%;
     color: #999;
     transition: all 0.3s linear 0s;
 }
 .commu_top>section:nth-of-type(2)>a:hover{
-    background: url(../../img/main/logo_etc/viewmore_on.png) no-repeat 100% 50%;
+    background: url(../img/main/logo_etc/viewmore_on.png) no-repeat 100% 50%;
     color: #000;
     transform: scale(1.05) translateX(5px); 
 }
@@ -2140,7 +2140,7 @@ span.addButton:hover:after{
     content: "";
     width: 21px;
     height: 21px;
-    background: url(../../img/sub2/blankstyle.png) no-repeat 50% 50%;
+    background: url(../img/sub2/blankstyle.png) no-repeat 50% 50%;
     display: inline-block;
     position: absolute;
     right: 3px;top: 50%;
@@ -2169,7 +2169,7 @@ span.addButton:hover:after{
     width: 100%;
     height: 969px;
     margin: 0 auto;
-    background: url(../../img/sub3/etc/infoS_background.png) no-repeat 50% 50%;
+    background: url(../img/sub3/etc/infoS_background.png) no-repeat 50% 50%;
 }
 .infoS_contents{
     width: 1620px;
@@ -2459,7 +2459,7 @@ span.addButton:hover:after{
     width: 13px;
     height: 15px;
     display: inline-block;
-    background: url(../../img/sub3/etc/down_off.png) no-repeat 50% 50%;
+    background: url(../img/sub3/etc/down_off.png) no-repeat 50% 50%;
 }
 
 .reporting>ul>li>ul>li:hover span.download:after{
@@ -2470,7 +2470,7 @@ span.addButton:hover:after{
     width: 13px;
     height: 15px;
     display: inline-block;
-    background: url(../../img/sub3/etc/down_on.png) no-repeat 50% 50%;
+    background: url(../img/sub3/etc/down_on.png) no-repeat 50% 50%;
     z-index: 10;
 }
 
@@ -2479,7 +2479,7 @@ span.addButton:hover:after{
     height: 1280px;
     margin: 0 auto;
     position: relative;
-    background: url(../../img/sub3/orola.jpg) no-repeat 50% 50%;
+    background: url(../img/sub3/orola.jpg) no-repeat 50% 50%;
     background-attachment: fixed;
     background-size: cover;
 }
@@ -2555,7 +2555,7 @@ span.addButton:hover:after{
     width: 13px;
     height: 15px;
     display: inline-block;
-    background: url(../../img/sub3/etc/down_off.png) no-repeat 50% 50%;
+    background: url(../img/sub3/etc/down_off.png) no-repeat 50% 50%;
 }
 
 }
